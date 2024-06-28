@@ -1,0 +1,28 @@
+{
+  "message": "OK",
+  "result": [
+    {
+      "value": "30000000000000000000000",
+      "blockHash": "0xf14ac2c3b1e15c3427011962273304b851abfaac8ecd4eb90542fbf1e81c5bc8",
+      "blockNumber": "9996399",
+      "confirmations": "22599",
+      "contractAddress": "0x0ffffffffffffffffffffffffffffffffffffff",
+      "cumulativeGasUsed": "50994",
+      "from": "0x0000000000000000000000000000000000000000",
+      "gas": "99999",
+      "gasPrice": "0",
+      "gasUsed": "99999",
+      "hash": "0x4bac373e25b4c5361ccfea8bf8910eae2c2ba59060dfeff61d9783398effffff",
+      "input": "0x40c10f19000000000000000000000000fffffffffffffffffffffffffffffffffffffff000000000000000000000000000000000000000000000fffffff00000",
+      "logIndex": "0",
+      "nonce": "5",
+      "timeStamp": "1719405924",
+      "to": "0xffffffffffffffffffffffffffffffffffffff",
+      "tokenDecimal": "18",
+      "tokenName": "TKN1",
+      "tokenSymbol": "TKN1",
+      "transactionIndex": "0"
+    }
+  ],
+  "status": "1"
+}
